@@ -4,7 +4,5 @@ public class UserController {
         return null;
     }
 
-    public String test1(){
-        return null;
-    }
+
 }
